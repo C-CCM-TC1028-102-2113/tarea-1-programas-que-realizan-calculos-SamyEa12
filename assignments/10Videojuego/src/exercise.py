@@ -10,7 +10,6 @@ def main():
     
     print("El total de la compra es: " + str(ptotal))
     pass
-   pass
 
 
 
